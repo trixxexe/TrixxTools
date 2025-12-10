@@ -20,6 +20,5 @@
 ## 📥 Installation
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/TrixxTools.git](https://github.com/YOUR_USERNAME/TrixxTools.git)
+git clone [https://github.com/trixxexe/TrixxTools.git]
 cd TrixxTools
-
