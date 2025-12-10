@@ -7,7 +7,7 @@
 
 | Tool Name | File | Description |
 | :--- | :--- | :--- |
-| **RitamCulator** | `ritam.py` | CLI Calculator with visual banner. |
+| **RitamCulator** | `calculator.py` | CLI Calculator with visual banner. |
 | **TrixxGeo** | `trixxgeo.py` | IP Address Geolocation & ISP lookup. |
 | **TrixxCrypt** | `trixxcrypt.py` | Base64 Encrypter/Decrypter & PassGen. |
 | **TrixxPort** | `trixxport.py` | Network Port Scanner (Hacker Style). |
