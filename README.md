@@ -22,3 +22,5 @@
 ```bash
 git clone [https://github.com/trixxexe/TrixxTools.git]
 cd TrixxTools
+pip install requests
+python TrixxTools.py
